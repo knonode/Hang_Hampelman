@@ -1,4 +1,4 @@
-# Challenge rules:
+# Challenge rules (sic!):
 
 Create a Hangman game on Algorand from ```main.py``` OR using your own code.
 
