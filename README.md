@@ -13,7 +13,7 @@ and is up to you to redefine.
 
 If player guesses correct word, a small random reward is to be payed to player.
 
-# Possible expansion:
+# Extra Challenge:
 
 Algorand account mnemonics consist of 25 words, where the last word is the hash of the first 24.
 
