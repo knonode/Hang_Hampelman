@@ -6,6 +6,8 @@ Word dictionary MUST be ```bip_39_list.py```.
 
 ASCII graphics of the hanged Hampelman - ```stages``` MUST be used. Other parts of GUI is up to you.
 
+However, if your Hampelman figure is hanged by a Python snake, then you should use that graphics.
+
 Player MUST pay at least 1 Algo to play. Reward for guessing right word is atm a random number from 0 to 9,
 and is up to you to redefine.
 
