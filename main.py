@@ -37,7 +37,7 @@ while not end_of_game:
     if "_" not in display:
         end_of_game = True
         print(f"You win {prize}")
-        def ch(h, x, y): # iterative Algorand logo pattern by Tomasso
+        def ch(h, x, y): # iterative Algorand logo pattern by Tommaso<3
             return '*' if y >= 0 and x in [h - y, h + y] else ''
         def draw_algorand(h1):
             h2 = h1 // 2 + 1
